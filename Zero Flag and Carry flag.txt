@@ -1,0 +1,6 @@
+**Significance of Zero flag and Carry flag in conditional jumps.**
+
+
+The Zero flag (ZF) is set when a result is zero, often used in conditional jumps for equality checks.
+The Carry flag (CF) indicates carry-out or borrow, crucial in conditional jumps, especially for multi-byte arithmetic operations.
+In short, flags help control program flow by allowing the CPU to make decisions based on operation results.
